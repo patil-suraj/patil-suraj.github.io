@@ -1,5 +1,5 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://huggingface.co/blog/stable_diffusion"
+  description: Stable Diffusion with Diffusers
+- url: "https://huggingface.co/blog/dreambooth"
+  description: Training Stable Diffusion with Dreambooth using 🧨 Diffusers
