@@ -1,16 +1,34 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
 - project: "aMUSED: An Open MUSE Reproduction"
-  # role: Founder & Primary Developer
+  role: Author
   # duration: 2012 &mdash; Present
   url: "https://github.com/huggingface/amused"
   description: Amused is a lightweight text to image model based off of the muse architecture. Amused is particularly useful in applications that require a lightweight and fast model such as generating many images quickly at once.
 
-# Springfield Community Outreach Group
 - project: "LCM-LoRA: A Universal Stable-Diffusion Acceleration Module"
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  role: Co-Author
+  # duration: 2007 &mdash; Present
   url: "https://huggingface.co/latent-consistency"
   description: Consistency distilled adapter for Stable diffusion that can be plugged into any base or fine-tuned SD model to accelerate inference without having to specifically distill each model.
+
+- project: T2I-Adapters for SDXL
+  role: Lead the model training
+  url: https://huggingface.co/collections/TencentARC/t2i-adapter-sdxl-64fac9cbf393f30370eeb02f
+  description: Trained small and efficient adapters for SDXL to allow auxillary control signals.
+
+- project: SDXL Inpainting
+  role: Lead the model training
+  url: https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1
+  description: Fine-tuned SDXL for in-painting.
+
+- project: bloom-jax-inference
+  role: Co-Author
+  url: https://github.com/huggingface/bloom-jax-inference
+  description: Worked on deploying the <a href="https://arxiv.org/abs/2211.05100">BLOOM-176B</a> model on TPUs using JAX.
+
+- project: Dalle-mini
+  role: Co-Author
+  url: https://github.com/borisdayma/dalle-mini
+  description: Dalle-mini is a open-source reproduction of the original DALL.E model from OpenAI.
