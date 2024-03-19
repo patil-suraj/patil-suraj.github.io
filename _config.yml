@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I am Suraj Patil currently an ML Engineer at Hugging Face working on open-source AI.</p>"
+resume_header_intro: ""<p>Hi! I am Suraj Patil, currently an ML Engineer at Hugging Face working on open-source AI. I work on building diffusers a library for SOTA diffusion models. I enjoy working on new research ideas and making them accessible through clean and easy to use code.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
